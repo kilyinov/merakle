@@ -8,6 +8,10 @@
 *.so
 *.dylib
 
+# Environment configuration
+*.env
+merakle-dev-firebase-adminsdk-vlqb4-65dba08b77.json
+
 # Test binary, built with `go test -c`
 *.test
 
